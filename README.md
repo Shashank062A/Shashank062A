@@ -75,16 +75,38 @@
 ---
 
 
-## 🧰 Tools Used
+<h2 align="center">🧰 Tools Used</h2>
 
-| Purpose       | Tool                |
-|--------------|---------------------|
-| README layout | readme.so           |
-| Icons         | skillicons.dev      |
-| Typing SVG    | readme-typing-svg   |
-| Stats         | github-readme-stats |
-| Badges        | shields.io          |
-| Fonts         | fancytextgenerator |
+<table align="center">
+  <tr>
+    <th align="center">Purpose</th>
+    <th align="center">Tool</th>
+  </tr>
+  <tr>
+    <td align="center">README layout</td>
+    <td align="center">readme.so</td>
+  </tr>
+  <tr>
+    <td align="center">Icons</td>
+    <td align="center">skillicons.dev</td>
+  </tr>
+  <tr>
+    <td align="center">Typing SVG</td>
+    <td align="center">readme-typing-svg</td>
+  </tr>
+  <tr>
+    <td align="center">Stats</td>
+    <td align="center">github-readme-stats</td>
+  </tr>
+  <tr>
+    <td align="center">Badges</td>
+    <td align="center">shields.io</td>
+  </tr>
+  <tr>
+    <td align="center">Fonts</td>
+    <td align="center">fancytextgenerator</td>
+  </tr>
+</table>
 
 
 ---
