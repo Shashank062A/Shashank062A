@@ -6,6 +6,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
+</div>
+
+---
+
 ## 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,python,java,html,css,ts" />
 
@@ -94,10 +100,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer;" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
 </div>
 
 ## 🛠️ **Tech Arsenal**
