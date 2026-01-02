@@ -27,6 +27,24 @@
 
 ---
 
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **💻 Languages**
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css,typescript" alt="Languages" />
+
+### **🚀 Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" alt="Frameworks" />
+
+### **🗄️ Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
+
+### **🔧 Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker" alt="Tools" />
+
+</div>
+
 ## 📊 GitHub Stats
 
 <!-- Light Mode -->
@@ -98,27 +116,7 @@
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer;" alt="Typing SVG" />
-</div>
 
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-### **💻 Languages**
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css,typescript" alt="Languages" />
-
-### **🚀 Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" alt="Frameworks" />
-
-### **🗄️ Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
-
-### **🔧 Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker" alt="Tools" />
-
-</div>
 
 ## 🎨 **Contribution Graph**
 
