@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,firebase,vercel,netlify" alt="Databases & Cloud" />
 
 ### **🔧 Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux,kalilinux" alt="Tools" />
 
 </div>
 
