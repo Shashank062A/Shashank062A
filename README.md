@@ -22,7 +22,7 @@ Passionate About Clean code, System Design, & Continuous Learning.
 ## 👨‍💻 About Me
 
 - 💻 Software Developer with hands-on experience in full-stack development  
-- 🏗️ Built ERP systems and business-oriented applications  
+- 🏗️ Built EMS systems and business-oriented applications  
 - 🔐 Studying Cybersecurity with practical exposure to phishing attack analysis and awareness  
 - 🛡️ Understanding how phishing works, how users get exploited, and how to design safer systems  
 - 📚 Strengthening fundamentals in Networking, Operating Systems, and Security concepts  
@@ -157,7 +157,7 @@ A management system designed to handle users, data flow, and administrative oper
 **Tech Used:**  
 Python, Django, MySql, React
 
-🔗 Repository :- { https://github.com/Shash062A/NotionX.git }
+🔗 Repository :~ https://github.com/Shash062A/NotionX.git
 
 ---
 
