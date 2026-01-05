@@ -14,8 +14,8 @@
 
 🚀 Software Developer | Problem Solver | Tech Explorer  
 
-I build scalable web applications, ERP systems, and practical software solutions focused on real-world use cases.  
-Passionate about clean code, system design, and continuous learning.
+I Build Scalable Web-Applications, EMS Systems, & Practical Software Solutions Focused On Real-World Use Cases.  
+Passionate About Clean code, System Design, & Continuous Learning.
 
 ---
 
@@ -157,7 +157,7 @@ A management system designed to handle users, data flow, and administrative oper
 **Tech Used:**  
 Python, Django, MySql, React
 
-🔗 Repository:(https://github.com/sid122232/NotionX.git)
+🔗 Repository :- { https://github.com/Shash062A/NotionX.git }
 
 ---
 
