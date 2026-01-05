@@ -12,6 +12,34 @@
 
 ---
 
+🚀 Software Developer | Problem Solver | Tech Explorer  
+
+I build scalable web applications, ERP systems, and practical software solutions focused on real-world use cases.  
+Passionate about clean code, system design, and continuous learning.
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Developer with hands-on experience in full-stack development  
+- 🏗️ Built ERP systems and business-oriented applications  
+- 🔐 Studying Cybersecurity with practical exposure to phishing attack analysis and awareness  
+- 🛡️ Understanding how phishing works, how users get exploited, and how to design safer systems  
+- 📚 Strengthening fundamentals in Networking, Operating Systems, and Security concepts  
+- 🎯 Goal: Build secure, scalable, and real-world software products
+
+---
+
+- ## 🔐 Cybersecurity Knowledge
+
+- Phishing attack understanding and awareness techniques  
+- Basic web security concepts (authentication, authorization, input validation)  
+- Understanding of common attack surfaces in web applications  
+- Networking fundamentals relevant to security  
+- Interest in ethical hacking and defensive security
+
+---
+
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
@@ -29,6 +57,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender,docker,linux" alt="Tools" />
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -121,6 +151,34 @@
 
 ---
 
+### 🔹 College / Management System (NOTION-X)
+A management system designed to handle users, data flow, and administrative operations.
+
+**Tech Used:**  
+Python, Django, MySql, React
+
+🔗 Repository:(https://github.com/sid122232/NotionX.git)
+
+---
+
+## 📌 Currently Working On
+
+- Strengthening Data Structures & Algorithms  
+- Learning System Design & Backend Scalability  
+- Improving Cybersecurity & Networking Fundamentals  
+- Building Production-Ready Projects
+
+---
+
+## 🤝 Open To
+
+- Internship Opportunities  
+- Collaboration On Real-World Projects  
+- Startup-Oriented Product Development  
+- Learning With Serious Developers
+
+---
+
 ## 📡 **Connect With Me**
 
 <div align="center">
@@ -147,6 +205,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=goyalaakarsh&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
+
+---
+
+<h3 align="center">⭐ “Code Is Not Just About Syntax — It’s About Solving Real Problems Efficiently.”</h3>
 
 
 <!--
